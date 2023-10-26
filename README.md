@@ -1,5 +1,5 @@
 # face-detection-tensorjs
-Face Detection Tensorjs &amp; Docker 
+Face Detection Tensorjs &amp; Docker    
 
 ### Quick Demo
 ```
